@@ -3,7 +3,7 @@ import Home from "../views/Home.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "https://my-vue-weather-app.herokuapp.com/",
     name: "Home",
     component: Home,
   },
